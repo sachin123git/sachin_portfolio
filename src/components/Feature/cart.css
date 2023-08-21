@@ -1,0 +1,23 @@
+.cards{
+    border: 1px solid white;
+    border-radius: 10px;
+    height: 220px;
+    width: 300px;
+    padding: 60px 20px 10px 20px;
+    margin: 20px 20px 40px 20px;
+    box-shadow: 10px 10px 10px 10px  black;
+}
+.icon,.icon2{
+    margin-bottom: 20px;
+    color: orangered;
+}
+.title{
+    margin-bottom: 20px;
+}
+.des{
+    margin-bottom: 20px;
+}
+
+.cards :hover{
+    box-shadow: 15px 15px 15px 15px black;
+}

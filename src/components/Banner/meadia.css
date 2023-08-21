@@ -1,0 +1,23 @@
+.social{
+    display: flex;
+    margin-top: 80px;
+}
+.div2{
+    margin-left: 100px;
+}
+.social_icon{
+    display: flex;
+    justify-content: space-evenly;
+}
+.bannerIcon{
+    border: 1px solid black;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: rgb(58, 56, 56);
+    box-shadow: 10px 10px 10px 10px black;
+}
+.bannerIcon :hover{
+        color: orangered;
+        background-color: black;
+}
